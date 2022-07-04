@@ -1,4 +1,3 @@
-# firstname-lastname-template
+# mhersent_webpage
   
-
-Template for LASTIG researchers personal webpage.
+Melvin Hersent LASTIG webpage
